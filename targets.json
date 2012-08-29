@@ -1,5 +1,10 @@
 {
   "file-version" : 1,
-  "current" : "",
-  "targets" : []
+  "current" : "build_37",
+  "targets" : [
+    {
+      "name" : "build_37",
+      "url" : "https://github.com/downloads/gkno/resources-homo_sapiens/build_37.tar.gz"
+    }
+  ]
 }
