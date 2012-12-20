@@ -4,7 +4,7 @@
   "targets" : [
     {
       "name" : "build_37",
-      "url" : "https://github.com/downloads/gkno/resources-homo_sapiens/build_37.tar.gz"
+      "url" : "http://bioinformatics.bc.edu/marthlab/download/gkno-resources/homo_sapiens/build_37.tar.gz"
     }
   ]
 }
