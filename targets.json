@@ -1,6 +1,6 @@
 {
-  "file-version" : 2,
-  "current" : "build_37_utah",
+  "file-version" : 3,
+  "current" : "build_37_version_3",
   "targets" : [
     {
       "name" : "build_37",
@@ -9,6 +9,10 @@
     {
       "name" : "build_37_utah",
       "url" : "http://marth-award.genetics.utah.edu:8089/build_37.tar.gz"
+    },
+    {
+      "name" : "build_37_version2",
+      "url" : "http://marth-award.genetics.utah.edu:8089/build_37_version_3.tar.gz"
     }
   ]
 }
